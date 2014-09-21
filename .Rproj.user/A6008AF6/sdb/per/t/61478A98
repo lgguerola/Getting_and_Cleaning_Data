@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1410880014792.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "61478A98",
+    "lastKnownWriteTime" : 310388336,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "activities",
+        "contentUrl" : "content?title=activities&file=0e106b0213204f53b3e49894b9accfd7.htm",
+        "displayedObservations" : 6,
+        "displayedVariables" : 2,
+        "totalObservations" : 6,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
